@@ -8,8 +8,10 @@
 *Einrichtung GIT
 
 # Erledigt am 11.04.2018
-- Installation VM
-- Installation Kommander
-- Installation Fire Fox
-- Installation 7z
-- Installation Python 
++ Installation VM
++ Installation Kommander
++ Installation Fire Fox
++ Installation 7z
++ Installation Python 
+
+Rasberry PI erhalten
